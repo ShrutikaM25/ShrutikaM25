@@ -27,3 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutikam25&" alt="shrutikam25" /></p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
